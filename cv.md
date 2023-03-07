@@ -30,3 +30,16 @@ _I'm an open-minded person. My personal qualities are activity, flexibility, amb
 * Version control: Git, GitHub
 * Figma (for web development)
 * Editors: VSCode
+
+
+***
+
+## Code examples
+```javascript
+const mergeArrays = (arr1, arr2) =>{ 
+  let newArr = arr1.concat(arr2);
+  newArr = newArr.sort((a, b) => a - b);
+  return [...new Set(newArr)];
+}
+
+```
