@@ -9,3 +9,8 @@
 ### __GitHub:__ [inalitvinka](https://github.com/inalitvinka)
 ### __Discord nickname:__ oxy2309 (@inalitvinka)
 ### __Location:__ Minsk, Belarus
+
+***
+
+## Summary
+_I'm an open-minded person. My personal qualities are activity, flexibility, ambition, discipline and self-organization, as well as the ability to work in a team. I like programming and I hope my ability to learn and gain new skills will lead me to become a proficiend Frontend Developer_
