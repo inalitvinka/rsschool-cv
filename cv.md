@@ -14,3 +14,19 @@
 
 ## Summary
 _I'm an open-minded person. My personal qualities are activity, flexibility, ambition, discipline and self-organization, as well as the ability to work in a team. I like programming and I hope my ability to learn and gain new skills will lead me to become a proficiend Frontend Developer_
+
+***
+
+## Skills
+* HTML5
+* PUG/JADE Basics
+* CSS3
+* SCSS
+* Javascript
+* React
+* Redux
+* Webpack
+* BEM methodology
+* Version control: Git, GitHub
+* Figma (for web development)
+* Editors: VSCode
