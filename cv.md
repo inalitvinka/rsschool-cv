@@ -43,3 +43,28 @@ const mergeArrays = (arr1, arr2) =>{
 }
 
 ```
+
+***
+
+## Training/Courses
+* RS school
+* Course JAVASCRIPT/REACT in [IT SHATLE MINSK](https://it-shatle.by)
+* Course HTML/CSS in [IT SHATLE MINSK](https://it-shatle.by)
+* Self-education 
+
+***
+
+## Experience
+* [Project example](https://github.com/inalitvinka/rick-app)
+* [Project example](https://github.com/inalitvinka/finalTaskTst)
+* [Project example](https://github.com/inalitvinka/diplom)
+
+***
+
+## Languages
+|  Language  	|  Level 	|
+|:----------:	|:------:	|
+|   English  	|   B2   	|
+|   Polish   	|   B1   	|
+| Belarusian 	| Native 	|
+|   Russian  	| Native 	|
